@@ -1,0 +1,20 @@
+{
+  "name": "ce-catamorphism",
+  "version": "1.0.0",
+  "description": "Computational effect - catamorphism",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computational effect",
+    "catamorphism",
+    "fold",
+    "reduce"
+  ],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pbp": "^1.0.0"
+  }
+}
