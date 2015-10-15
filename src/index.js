@@ -8,6 +8,11 @@ var Catamorphism = Object.create(null, {
   }),
 });
 
+function cata(f, obj) {
+  return obj.cata(f);
+}
+
 module.exports = {
   Catamorphism: Catamorphism,
+  cata: cata,
 };
