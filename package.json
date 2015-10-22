@@ -1,6 +1,6 @@
 {
   "name": "@ce/catamorphism",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Computational effect - catamorphism",
   "main": "src/index.js",
   "scripts": {
