@@ -1,6 +1,6 @@
 'use strict';
 
-var pbp = require('pbp');
+var pbp = require('@ce/pbp');
 
 var Catamorphism = Object.create(null, {
   cata: pbp.enumerableValue(function(obj) {
